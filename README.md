@@ -1,0 +1,54 @@
+# All GPT links for study
+- https://chatgpt.com/s/t_68c165e6d2988191aa68b7f57e8f1990
+- **dtl intern backstory**
+---
+- https://chatgpt.com/share/68c05407-9c30-8011-8abd-f71d986043e6
+- **buynest front end files explanation**
+---
+- https://chatgpt.com/share/68c2d9a3-3cf0-8011-b955-6d52aeac7b14
+- **buynest backend files explanation**
+---
+- https://chatgpt.com/share/689210f5-8a80-8011-8f15-95a33017a032
+- **expense ease front end files explanation**
+---
+- https://chatgpt.com/share/68961228-730c-8000-b054-030c235fd83f
+- **expense ease - backend + miscellaneous**
+---
+- https://chatgpt.com/share/68c4688a-2320-8000-bff8-a8871d445260
+- **data cleaning steps Harvesthub**
+---
+- https://chatgpt.com/share/68ab2e63-874c-8000-bfbf-2493c204c249
+- https://chatgpt.com/share/68ab2e74-6f48-8000-acfd-922be32e598b
+- **HarvestHub - ML**
+---
+- https://chatgpt.com/s/t_68c1c7ca4a7481919cd2e82e2b11145f
+- **Guesstimates basic questions to ask**
+---
+- https://chatgpt.com/share/68a1d5f0-e470-8000-b7e0-68c2fc396a72
+- **normal forms + imp info ( rest api )**
+---
+- https://chatgpt.com/share/68c8675d-1340-8011-9cf3-5be2103620da
+- **os interview ques**
+---
+- https://chatgpt.com/share/68c85bdf-03fc-8000-931b-a69677e1995c
+- **normal form**
+---
+- https://chatgpt.com/share/68c2ec4b-b7e8-8000-a579-ddac554f1e67
+- **oops last prompt**
+---
+- https://chatgpt.com/share/68a21c80-fa28-8000-aacc-052e8eb42787
+- **dbms**
+---
+- https://chatgpt.com/share/68931aa0-e644-8011-a597-7af0e058fa49
+- **sql top 50 question**
+---
+- https://chatgpt.com/share/68ac549b-b0d0-8011-a0b9-cb98a5f912f7
+- **overall ML study**
+---
+- https://chatgpt.com/share/68ae0837-972c-8011-9524-93a767b12571
+- https://chatgpt.com/share/68af12b2-9478-8000-a125-acb249ba5919
+- **Load Balancing, Rate Limiting, Virtual DOM, Diffing and reconciliation concepts**
+---
+- https://chatgpt.com/share/68af50d2-f8b4-8011-9fd9-e8beec41330e
+- **System Design - Elevator system**
+---
