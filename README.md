@@ -24,6 +24,9 @@
 - https://chatgpt.com/s/t_68c1c7ca4a7481919cd2e82e2b11145f
 - **Guesstimates basic questions to ask**
 ---
+- https://chatgpt.com/share/68c95441-ec44-8000-893d-a3d09dfb6a82
+- cn notes
+---
 - https://chatgpt.com/share/68a1d5f0-e470-8000-b7e0-68c2fc396a72
 - **normal forms + imp info ( rest api )**
 ---
