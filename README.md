@@ -17,6 +17,9 @@
 - https://chatgpt.com/share/68c4688a-2320-8000-bff8-a8871d445260
 - **data cleaning steps Harvesthub**
 ---
+- https://chatgpt.com/share/68e022fe-0824-8000-8ca9-6a8194098300
+- **HarvestHub - Backend**
+---
 - https://chatgpt.com/share/68ab2e63-874c-8000-bfbf-2493c204c249
 - https://chatgpt.com/share/68ab2e74-6f48-8000-acfd-922be32e598b
 - **HarvestHub - ML**
@@ -25,25 +28,28 @@
 - **Guesstimates basic questions to ask**
 ---
 - https://chatgpt.com/share/68c95441-ec44-8000-893d-a3d09dfb6a82
-- cn notes
----
-- https://chatgpt.com/share/68a1d5f0-e470-8000-b7e0-68c2fc396a72
-- **normal forms + imp info ( rest api )**
+- **cn notes**
 ---
 - https://chatgpt.com/share/68c8675d-1340-8011-9cf3-5be2103620da
 - **os interview ques**
 ---
+- https://chatgpt.com/share/68c2ec4b-b7e8-8000-a579-ddac554f1e67
+- **oops last prompt**
+---
 - https://chatgpt.com/share/68c85bdf-03fc-8000-931b-a69677e1995c
 - **normal form**
 ---
-- https://chatgpt.com/share/68c2ec4b-b7e8-8000-a579-ddac554f1e67
-- **oops last prompt**
+- https://chatgpt.com/share/68a1d5f0-e470-8000-b7e0-68c2fc396a72
+- **normal forms + imp info ( rest api )**
 ---
 - https://chatgpt.com/share/68a21c80-fa28-8000-aacc-052e8eb42787
 - **dbms**
 ---
 - https://chatgpt.com/share/68931aa0-e644-8011-a597-7af0e058fa49
 - **sql top 50 question**
+---
+- https://chatgpt.com/share/68e0d855-5728-8011-8707-827603c2361c
+- **basic + medium sql queries**
 ---
 - https://chatgpt.com/share/68ac549b-b0d0-8011-a0b9-cb98a5f912f7
 - **overall ML study**
