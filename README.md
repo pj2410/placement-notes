@@ -17,6 +17,9 @@
 - https://chatgpt.com/share/68c4688a-2320-8000-bff8-a8871d445260
 - **data cleaning steps Harvesthub**
 ---
+- https://chatgpt.com/share/68e17708-1100-8011-92f8-903494880b8e
+- **HarvestHub - Frontend**
+---
 - https://chatgpt.com/share/68e022fe-0824-8000-8ca9-6a8194098300
 - **HarvestHub - Backend**
 ---
@@ -32,6 +35,9 @@
 ---
 - https://chatgpt.com/share/68c8675d-1340-8011-9cf3-5be2103620da
 - **os interview ques**
+---
+- https://chatgpt.com/share/68e0fda4-8428-8000-87c4-918666c4594d
+- **os lti mindtree**
 ---
 - https://chatgpt.com/share/68c2ec4b-b7e8-8000-a579-ddac554f1e67
 - **oops last prompt**
